@@ -13,11 +13,11 @@ Focused on Threat Intelligence, Pentesting, and Incident Response. I document ha
 | 🎯 **[Penetration Testing](https://github.com/Azizs2/My-Cybersecurity-Portfolio/blob/06be601632c8ba33e02d4fe61e19372becb64d68/Penetration%20Testing%20%26%20Findings%20Report%3A%20DibiShop%20E-Commerce%20Investigation.md)** | Black-box pentest on DibiShop web platform, highlighting access control flaws & remediation. | OWASP Top 10, CVSS v3.1 |
 | 🚨 **[DFIR & SIEM](https://github.com/Azizs2/My-Cybersecurity-Portfolio/blob/06be601632c8ba33e02d4fe61e19372becb64d68/Digital%20Forensics%20%26%20Incident%20Response%3A%20SIEM-Based%20Post-Breach%20Investigation.md)** | Post-breach incident response & log correlation using Wazuh SIEM. | NIST SP 800-61 r2 |
 
-📁 **Explore Full Technical Reports:** [Azizs2/My-Cybersecurity-Portfolio](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
+📁 **Explore Full Technical Reports:** [My-Cybersecurity-Portfolio](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
 
 ---
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/syaiful-aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/)
-- **GitHub Portfolio:** [Azizs2/My-Cybersecurity-Portfolio](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
+- **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/)
+- **GitHub Portfolio:** [Cybersecurity Projects](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
