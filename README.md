@@ -13,7 +13,7 @@ A technology professional passionate about securing the nexus between physical a
 
 ---
 
-### 🛡️ Featured Cybersecurity Projects
+### 📂 Featured Cybersecurity Projects
 
 | No. | Project Domain | Description | Frameworks / Standards |
 | :--- | :--- | :--- | :--- |
