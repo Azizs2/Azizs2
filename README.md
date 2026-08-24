@@ -1,7 +1,15 @@
 # Hi there, I'm Syaiful Aziz 👋 
-### Cybersecurity Practitioner | SOC Analyst & Penetration Testing
+### Cybersecurity Specialist | OT/ICS Security | Electrical Design Engineer | Full-Stack Developer
 
-Focused on Threat Intelligence, Pentesting, and Incident Response. I document hands-on technical projects mapped to industry frameworks (MITRE ATT&CK, OWASP, NIST).
+A technology professional passionate about securing the nexus between physical and digital systems. With over **8 years of experience in Electrical Design Engineering**, I offer a unique perspective on protecting critical infrastructure and bridging IT/OT security.
+
+---
+
+### 🛡️ About Me & Core Strengths
+
+- 🏗️ **Physical Systems & OT/ICS:** Hands-on experience in Substation Design at global firms like **GE Vernova** and **Schneider Electric**, providing a deep understanding of Industrial Control Systems (ICS) and Critical Infrastructure Protection.
+- 💻 **Digital Realm:** Full-Stack Web Developer (Laravel/PHP, Python, JS, MySQL) with expertise in software architecture, enabling deep code-level vulnerability analysis.
+- 🔒 **Cybersecurity Focus:** Active in Threat Intelligence, Pentesting, DFIR, and OT Security aligned with **MITRE ATT&CK, OWASP, NIST SP 800-61 r2**, and **CVSS v3.1** standards.
 
 ---
 
@@ -17,7 +25,16 @@ Focused on Threat Intelligence, Pentesting, and Incident Response. I document ha
 
 ---
 
+### 🛠️ Technical Toolkit
+
+- **Domains:** OT/ICS Security, IT/OT Convergence, Critical Infrastructure Protection, Threat Hunting.
+- **Tools:** Wazuh SIEM, Nmap, Burp Suite, Wireshark, Splunk, Nessus, Kali Linux, Triage Sandbox.
+- **Languages:** Python, PHP (Laravel), JavaScript, SQL, Bash.
+
+---
+
 ### 📬 Connect with Me
 
-- **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/)
-- **GitHub Portfolio:** [Cybersecurity Projects](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
+- 💼 **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/)
+- 📁 **GitHub Portfolio:** [Cybersecurity Projects](https://github.com/Azizs2/My-Cybersecurity-Portfolio)
+- 📍 **Location:** Depok, West Java, Indonesia
