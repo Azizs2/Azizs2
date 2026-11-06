@@ -42,5 +42,6 @@ A technology professional passionate about securing the nexus between physical a
 
 ### 📬 Connect with Me
 - 💼 **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/?locale=en_US)[cite: 14]
-- 📂 **GitHub Portfolios:** [Cybersecurity Projects](https://github.com/Azizs2/My-Cybersecurity-Portfolio)[cite: 26] | [Electrical Design Portfolio](https://github.com/Azizs2/Electrical-Design-Portfolio)[cite: 29]
+- 📂 **[Cybersecurity Projects]:** (https://github.com/Azizs2/My-Cybersecurity-Portfolio)[cite: 26]
+- ⚡ **[Electrical Design Portfolio]:** (https://github.com/Azizs2/Electrical-Design-Portfolio)[cite: 29]
 - 📍 **Location:** Depok, West Java, Indonesia
