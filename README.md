@@ -25,6 +25,16 @@ A technology professional passionate about securing the nexus between physical a
 
 ---
 
+### ⚡ Featured Electrical Engineering Projects
+
+| No. | Project Domain | Description | Frameworks / Standards |
+| :--- | :--- | :--- | :--- |
+| 1 | ⚡ [150kV GIS Single Line Diagram](https://github.com/Azizs2/Electrical-Design-Portfolio/blob/main/150kV-Substation-Single-Line-Diagram.md) | High-voltage digital substation architecture for a 150kV GIS system, featuring 5 primary bays, dual busbar arrangement, and precise CT/VT core mapping. | IEC Standards|
+
+📁 **Explore Full Electrical Documentation:** [Electrical-Design-Portfolio](https://github.com/Azizs2/Electrical-Design-Portfolio)
+
+---
+
 ### 🛠️ Technical Toolkit
 
 - **Domains:** OT/ICS Security, IT/OT Convergence, Critical Infrastructure Protection, Threat Hunting.
