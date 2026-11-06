@@ -41,7 +41,7 @@ A technology professional passionate about securing the nexus between physical a
 - **Languages:** Python, PHP (Laravel), JavaScript, SQL, Bash.
 
 ### 📬 Connect with Me
-- 💼 **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/?locale=en_US)[cite: 14]
+- 💼 **LinkedIn:** [Syaiful Aziz](https://www.linkedin.com/in/syaiful-aziz-540183367/?locale=en_US)
 - 📂 **Cybersecurity Projects:** (https://github.com/Azizs2/My-Cybersecurity-Portfolio)
 - ⚡ **Electrical Design Portfolio:** (https://github.com/Azizs2/Electrical-Design-Portfolio)
 - 📍 **Location:** Depok, West Java, Indonesia
